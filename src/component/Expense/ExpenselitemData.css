@@ -1,0 +1,8 @@
+.expnse-item__data{
+  border: 1px solid white;
+  border-radius: 12px;
+  padding: 1.3rem;
+  background-color: rgba(0, 0, 0, 0.83);
+  color: white;
+  font-weight: bold;
+}
